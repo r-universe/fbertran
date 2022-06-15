@@ -1,0 +1,66 @@
+[
+  {
+    "package": "bigalgebra",
+    "oncran": true
+  },
+  {
+    "package": "BioStatR",
+    "oncran": true
+  },
+  {
+    "package": "bootPLS",
+    "oncran": true
+  },
+  {
+    "package": "c060",
+    "oncran": true
+  },
+  {
+    "package": "Cascade",
+    "oncran": true
+  },
+  {
+    "package": "CascadeData",
+    "oncran": true
+  },
+  {
+    "package": "ModStatR",
+    "oncran": true
+  },
+  {
+    "package": "networkABC",
+    "oncran": true
+  },
+  {
+    "package": "Patterns",
+    "oncran": true
+  },
+  {
+    "package": "peperr",
+    "oncran": true
+  },
+  {
+    "package": "plsdof",
+    "oncran": true
+  },
+  {
+    "package": "plsRbeta",
+    "oncran": true
+  },
+  {
+    "package": "plsRcox",
+    "oncran": true
+  },
+  {
+    "package": "plsRglm",
+    "oncran": true
+  },
+  {
+    "package": "sageR",
+    "oncran": true
+  },
+  {
+    "package": "SelectBoost",
+    "oncran": true
+  }
+]
