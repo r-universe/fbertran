@@ -3,24 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "Patterns"]
-	path = Patterns
-	url = https://github.com/fbertran/patterns
-	shallow = true
-	registered = true
-[submodule "c060"]
-	path = c060
-	url = https://github.com/fbertran/c060
-	shallow = true
-	registered = true
-[submodule "SelectBoost"]
-	path = SelectBoost
-	url = https://github.com/fbertran/selectboost
-	shallow = true
-	registered = true
-[submodule "sageR"]
-	path = sageR
-	url = https://github.com/fbertran/sager
+[submodule "bigalgebra"]
+	path = bigalgebra
+	url = https://github.com/fbertran/bigalgebra
 	shallow = true
 	registered = true
 [submodule "BioStatR"]
@@ -33,14 +18,24 @@
 	url = https://github.com/fbertran/bootpls
 	shallow = true
 	registered = true
-[submodule "peperr"]
-	path = peperr
-	url = https://github.com/fbertran/peperr
+[submodule "c060"]
+	path = c060
+	url = https://github.com/fbertran/c060
 	shallow = true
 	registered = true
-[submodule "bigalgebra"]
-	path = bigalgebra
-	url = https://github.com/fbertran/bigalgebra
+[submodule "Cascade"]
+	path = Cascade
+	url = https://github.com/fbertran/cascade
+	shallow = true
+	registered = true
+[submodule "CascadeData"]
+	path = CascadeData
+	url = https://github.com/fbertran/cascadedata
+	shallow = true
+	registered = true
+[submodule "ModStatR"]
+	path = ModStatR
+	url = https://github.com/fbertran/modstatr
 	shallow = true
 	registered = true
 [submodule "networkABC"]
@@ -48,9 +43,19 @@
 	url = https://github.com/fbertran/networkabc
 	shallow = true
 	registered = true
-[submodule "Cascade"]
-	path = Cascade
-	url = https://github.com/fbertran/cascade
+[submodule "Patterns"]
+	path = Patterns
+	url = https://github.com/fbertran/patterns
+	shallow = true
+	registered = true
+[submodule "peperr"]
+	path = peperr
+	url = https://github.com/fbertran/peperr
+	shallow = true
+	registered = true
+[submodule "plsdof"]
+	path = plsdof
+	url = https://github.com/fbertran/plsdof
 	shallow = true
 	registered = true
 [submodule "plsRbeta"]
@@ -68,18 +73,13 @@
 	url = https://github.com/fbertran/plsrglm
 	shallow = true
 	registered = true
-[submodule "CascadeData"]
-	path = CascadeData
-	url = https://github.com/fbertran/cascadedata
+[submodule "sageR"]
+	path = sageR
+	url = https://github.com/fbertran/sager
 	shallow = true
 	registered = true
-[submodule "ModStatR"]
-	path = ModStatR
-	url = https://github.com/fbertran/modstatr
-	shallow = true
-	registered = true
-[submodule "plsdof"]
-	path = plsdof
-	url = https://github.com/fbertran/plsdof
+[submodule "SelectBoost"]
+	path = SelectBoost
+	url = https://github.com/fbertran/selectboost
 	shallow = true
 	registered = true

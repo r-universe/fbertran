@@ -1,18 +1,6 @@
 [
   {
-    "package": "Patterns",
-    "oncran": true
-  },
-  {
-    "package": "c060",
-    "oncran": true
-  },
-  {
-    "package": "SelectBoost",
-    "oncran": true
-  },
-  {
-    "package": "sageR",
+    "package": "bigalgebra",
     "oncran": true
   },
   {
@@ -24,11 +12,19 @@
     "oncran": true
   },
   {
-    "package": "peperr",
+    "package": "c060",
     "oncran": true
   },
   {
-    "package": "bigalgebra",
+    "package": "Cascade",
+    "oncran": true
+  },
+  {
+    "package": "CascadeData",
+    "oncran": true
+  },
+  {
+    "package": "ModStatR",
     "oncran": true
   },
   {
@@ -36,7 +32,15 @@
     "oncran": true
   },
   {
-    "package": "Cascade",
+    "package": "Patterns",
+    "oncran": true
+  },
+  {
+    "package": "peperr",
+    "oncran": true
+  },
+  {
+    "package": "plsdof",
     "oncran": true
   },
   {
@@ -52,15 +56,11 @@
     "oncran": true
   },
   {
-    "package": "CascadeData",
+    "package": "sageR",
     "oncran": true
   },
   {
-    "package": "ModStatR",
-    "oncran": true
-  },
-  {
-    "package": "plsdof",
+    "package": "SelectBoost",
     "oncran": true
   }
 ]
