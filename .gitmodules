@@ -48,6 +48,11 @@
 	url = https://github.com/fbertran/patterns
 	shallow = true
 	registered = true
+[submodule "penalizedSVM"]
+	path = penalizedSVM
+	url = https://github.com/fbertran/penalizedsvm
+	shallow = true
+	registered = true
 [submodule "peperr"]
 	path = peperr
 	url = https://github.com/fbertran/peperr

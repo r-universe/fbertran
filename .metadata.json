@@ -36,6 +36,10 @@
     "oncran": true
   },
   {
+    "package": "penalizedSVM",
+    "oncran": true
+  },
+  {
     "package": "peperr",
     "oncran": true
   },
