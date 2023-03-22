@@ -88,3 +88,8 @@
 	url = https://github.com/fbertran/selectboost
 	shallow = true
 	registered = true
+[submodule "survAUC"]
+	path = survAUC
+	url = https://github.com/fbertran/survauc
+	shallow = true
+	registered = true
