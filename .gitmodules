@@ -33,6 +33,11 @@
 	url = https://github.com/fbertran/cascadedata
 	shallow = true
 	registered = true
+[submodule "granova"]
+	path = granova
+	url = https://github.com/cran/granova
+	shallow = true
+	registered = true
 [submodule "ModStatR"]
 	path = ModStatR
 	url = https://github.com/fbertran/modstatr
@@ -56,6 +61,11 @@
 [submodule "peperr"]
 	path = peperr
 	url = https://github.com/fbertran/peperr
+	shallow = true
+	registered = true
+[submodule "plsdepot"]
+	path = plsdepot
+	url = https://github.com/cran/plsdepot
 	shallow = true
 	registered = true
 [submodule "plsdof"]
