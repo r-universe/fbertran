@@ -48,6 +48,11 @@
 	url = https://github.com/fbertran/networkabc
 	shallow = true
 	registered = true
+[submodule "OneTwoSamples"]
+	path = OneTwoSamples
+	url = https://github.com/cran/OneTwoSamples
+	shallow = true
+	registered = true
 [submodule "Patterns"]
 	path = Patterns
 	url = https://github.com/fbertran/patterns
