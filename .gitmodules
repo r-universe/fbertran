@@ -93,6 +93,11 @@
 	url = https://github.com/fbertran/plsrglm
 	shallow = true
 	registered = true
+[submodule "robustfa"]
+	path = robustfa
+	url = https://github.com/cran/robustfa
+	shallow = true
+	registered = true
 [submodule "sageR"]
 	path = sageR
 	url = https://github.com/fbertran/sager
