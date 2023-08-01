@@ -2,51 +2,48 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bigalgebra"]
-	path = bigalgebra
-	url = https://github.com/fbertran/bigalgebra
 [submodule "BioStatR"]
 	path = BioStatR
 	url = https://github.com/fbertran/biostatr
-[submodule "bootPLS"]
-	path = bootPLS
-	url = https://github.com/fbertran/bootpls
-[submodule "c060"]
-	path = c060
-	url = https://github.com/fbertran/c060
 [submodule "Cascade"]
 	path = Cascade
 	url = https://github.com/fbertran/cascade
 [submodule "CascadeData"]
 	path = CascadeData
 	url = https://github.com/fbertran/cascadedata
-[submodule "granova"]
-	path = granova
-	url = https://github.com/cran/granova
 [submodule "ModStatR"]
 	path = ModStatR
 	url = https://github.com/fbertran/modstatr
-[submodule "networkABC"]
-	path = networkABC
-	url = https://github.com/fbertran/networkabc
 [submodule "OneTwoSamples"]
 	path = OneTwoSamples
 	url = https://github.com/cran/OneTwoSamples
 [submodule "Patterns"]
 	path = Patterns
 	url = https://github.com/fbertran/patterns
+[submodule "SelectBoost"]
+	path = SelectBoost
+	url = https://github.com/fbertran/selectboost
+[submodule "bigalgebra"]
+	path = bigalgebra
+	url = https://github.com/fbertran/bigalgebra
+[submodule "bootPLS"]
+	path = bootPLS
+	url = https://github.com/fbertran/bootpls
+[submodule "c060"]
+	path = c060
+	url = https://github.com/fbertran/c060
+[submodule "granova"]
+	path = granova
+	url = https://github.com/cran/granova
+[submodule "networkABC"]
+	path = networkABC
+	url = https://github.com/fbertran/networkabc
 [submodule "penalizedSVM"]
 	path = penalizedSVM
 	url = https://github.com/fbertran/penalizedsvm
 [submodule "peperr"]
 	path = peperr
 	url = https://github.com/fbertran/peperr
-[submodule "plsdepot"]
-	path = plsdepot
-	url = https://github.com/cran/plsdepot
-[submodule "plsdof"]
-	path = plsdof
-	url = https://github.com/fbertran/plsdof
 [submodule "plsRbeta"]
 	path = plsRbeta
 	url = https://github.com/fbertran/plsrbeta
@@ -56,15 +53,18 @@
 [submodule "plsRglm"]
 	path = plsRglm
 	url = https://github.com/fbertran/plsrglm
+[submodule "plsdepot"]
+	path = plsdepot
+	url = https://github.com/cran/plsdepot
+[submodule "plsdof"]
+	path = plsdof
+	url = https://github.com/fbertran/plsdof
 [submodule "robustfa"]
 	path = robustfa
 	url = https://github.com/cran/robustfa
 [submodule "sageR"]
 	path = sageR
 	url = https://github.com/fbertran/sager
-[submodule "SelectBoost"]
-	path = SelectBoost
-	url = https://github.com/fbertran/selectboost
 [submodule "survAUC"]
 	path = survAUC
 	url = https://github.com/fbertran/survauc
