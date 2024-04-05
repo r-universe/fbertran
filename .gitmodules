@@ -68,3 +68,9 @@
 [submodule "survAUC"]
 	path = survAUC
 	url = https://github.com/fbertran/survauc
+[submodule "tester"]
+	path = tester
+	url = https://github.com/fbertran/tester
+[submodule "turner"]
+	path = turner
+	url = https://github.com/fbertran/turner
