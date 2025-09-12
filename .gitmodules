@@ -61,7 +61,7 @@
 	url = https://github.com/fbertran/plsdof
 [submodule "robustfa"]
 	path = robustfa
-	url = https://github.com/cran/robustfa
+	url = https://github.com/fbertran/robustfa
 [submodule "sageR"]
 	path = sageR
 	url = https://github.com/fbertran/sager
