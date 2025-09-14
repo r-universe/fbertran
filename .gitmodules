@@ -16,7 +16,7 @@
 	url = https://github.com/fbertran/modstatr
 [submodule "OneTwoSamples"]
 	path = OneTwoSamples
-	url = https://github.com/cran/OneTwoSamples
+	url = https://github.com/fbertran/onetwosamples
 [submodule "Patterns"]
 	path = Patterns
 	url = https://github.com/fbertran/patterns
