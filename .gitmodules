@@ -62,9 +62,6 @@
 [submodule "plsRglm"]
 	path = plsRglm
 	url = https://github.com/fbertran/plsrglm
-[submodule "plsdepot"]
-	path = plsdepot
-	url = https://github.com/cran/plsdepot
 [submodule "plsdof"]
 	path = plsdof
 	url = https://github.com/fbertran/plsdof
