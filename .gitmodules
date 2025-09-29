@@ -38,6 +38,9 @@
 [submodule "extrafont"]
 	path = extrafont
 	url = https://github.com/fbertran/extrafont
+[submodule "extrafontdb"]
+	path = extrafontdb
+	url = https://github.com/fbertran/extrafontdb
 [submodule "fontcm"]
 	path = fontcm
 	url = https://github.com/fbertran/fontcm
