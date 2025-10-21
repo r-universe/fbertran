@@ -26,6 +26,9 @@
 [submodule "SelectBoost"]
 	path = SelectBoost
 	url = https://github.com/fbertran/selectboost
+[submodule "bigPCAcpp"]
+	path = bigPCAcpp
+	url = https://github.com/fbertran/bigpcacpp
 [submodule "bigalgebra"]
 	path = bigalgebra
 	url = https://github.com/fbertran/bigalgebra
