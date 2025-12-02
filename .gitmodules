@@ -35,6 +35,9 @@
 [submodule "bigPCAcpp"]
 	path = bigPCAcpp
 	url = https://github.com/fbertran/bigpcacpp
+[submodule "bigPLSR"]
+	path = bigPLSR
+	url = https://github.com/fbertran/bigplsr
 [submodule "bigPLScox"]
 	path = bigPLScox
 	url = https://github.com/fbertran/bigplscox
