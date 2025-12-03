@@ -32,6 +32,9 @@
 [submodule "SelectBoost.gamlss"]
 	path = SelectBoost.gamlss
 	url = https://github.com/fbertran/selectboost.gamlss
+[submodule "Sobol4R"]
+	path = Sobol4R
+	url = https://github.com/fbertran/sobol4r
 [submodule "bigPCAcpp"]
 	path = bigPCAcpp
 	url = https://github.com/fbertran/bigpcacpp
