@@ -35,6 +35,12 @@
 [submodule "Sobol4R"]
 	path = Sobol4R
 	url = https://github.com/fbertran/sobol4r
+[submodule "bigANNOY"]
+	path = bigANNOY
+	url = https://github.com/fbertran/bigannoy
+[submodule "bigKNN"]
+	path = bigKNN
+	url = https://github.com/fbertran/bigknn
 [submodule "bigPCAcpp"]
 	path = bigPCAcpp
 	url = https://github.com/fbertran/bigpcacpp
