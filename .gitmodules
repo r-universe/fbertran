@@ -26,6 +26,9 @@
 [submodule "SelectBoost"]
 	path = SelectBoost
 	url = https://github.com/fbertran/selectboost
+[submodule "SelectBoost.FDA"]
+	path = SelectBoost.FDA
+	url = https://github.com/fbertran/selectboost.fda
 [submodule "SelectBoost.beta"]
 	path = SelectBoost.beta
 	url = https://github.com/fbertran/selectboost.beta
