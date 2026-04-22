@@ -65,6 +65,9 @@
 [submodule "c060"]
 	path = c060
 	url = https://github.com/fbertran/c060
+[submodule "elcf4R"]
+	path = elcf4R
+	url = https://github.com/fbertran/elcf4r
 [submodule "extrafont"]
 	path = extrafont
 	url = https://github.com/fbertran/extrafont
