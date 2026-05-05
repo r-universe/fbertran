@@ -77,6 +77,9 @@
 [submodule "fontcm"]
 	path = fontcm
 	url = https://github.com/fbertran/fontcm
+[submodule "ggWebGL"]
+	path = ggWebGL
+	url = https://github.com/fbertran/ggwebgl
 [submodule "granova"]
 	path = granova
 	url = https://github.com/fbertran/granova
