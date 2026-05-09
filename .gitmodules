@@ -41,6 +41,9 @@
 [submodule "Sobol4R"]
 	path = Sobol4R
 	url = https://github.com/fbertran/sobol4r
+[submodule "XGeoRTR"]
+	path = XGeoRTR
+	url = https://github.com/fbertran/xgeortr
 [submodule "bigANNOY"]
 	path = bigANNOY
 	url = https://github.com/fbertran/bigannoy
