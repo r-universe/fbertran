@@ -62,6 +62,9 @@
 [submodule "bigalgebra"]
 	path = bigalgebra
 	url = https://github.com/fbertran/bigalgebra
+[submodule "boids4R"]
+	path = boids4R
+	url = https://github.com/fbertran/boids4r
 [submodule "bootPLS"]
 	path = bootPLS
 	url = https://github.com/fbertran/bootpls
