@@ -89,6 +89,9 @@
 [submodule "granova"]
 	path = granova
 	url = https://github.com/fbertran/granova
+[submodule "mergeGridR"]
+	path = mergeGridR
+	url = https://github.com/fbertran/mergegridr
 [submodule "missPLS"]
 	path = missPLS
 	url = https://github.com/fbertran/misspls
